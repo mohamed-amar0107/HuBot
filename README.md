@@ -20,7 +20,7 @@
 <img width="922" alt="image" src="https://github.com/SuryaPratap2542/Resume-Uploader/assets/89827931/d3924bcc-5483-4dec-9405-7577057ba473">
 *Home Page - Upload Resumes*
 
-<img width="887" alt="image" src="https://github.com/SuryaPratap2542/Resume-Uploader/assets/89827931/8114c052-76d5-46b2-9a8b-b268225fb06b">
+<img width="887" alt="image" src="https://github.com/mohamed-amar0107/HuBot/blob/main/resumeuploader/media/profileimg/ammar.png">
 *Candidates informations*
 
 ## Installation
