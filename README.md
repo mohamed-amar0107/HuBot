@@ -25,13 +25,13 @@ HuBot Resume Uploader is a simple web application for managing resumes. Users ca
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/django-resume-uploader.git
+   git clone https://github.com/mohamed-amar0107/HuBot.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd django-resume-uploader
+   cd HuBot
    ```
 
 3. Create a virtual environment (optional but recommended):
