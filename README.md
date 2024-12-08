@@ -1,6 +1,6 @@
-# Django Resume Uploader
+# HuBot Resume Uploader
 
-Django Resume Uploader is a web application that allows users to upload their resumes and view a list of candidates. It is built using the Django web framework and provides a simple way to manage resumes and candidate information.
+ Resume Uploader is a web application that allows users to upload their resumes and view a list of candidates. It is built using the Django web framework and provides a simple way to manage resumes and candidate information.
 
 ## Features
 
@@ -11,6 +11,10 @@ Django Resume Uploader is a web application that allows users to upload their re
 - Responsive design for various screen sizes.
 
 ## Screenshots
+
+<img width="922" alt="image" src="https://github.com/mohamed-amar0107/HuBot/blob/main/resumeuploader/media/profileimg/acceuil.PNG">
+
+<img width="922" alt="image" src="https://github.com/mohamed-amar0107/HuBot/blob/main/resumeuploader/media/profileimg/jobrequirement.PNG">
 
 
 <img width="922" alt="image" src="https://github.com/SuryaPratap2542/Resume-Uploader/assets/89827931/d3924bcc-5483-4dec-9405-7577057ba473">
@@ -74,24 +78,3 @@ Django Resume Uploader is a web application that allows users to upload their re
 3. View candidate details by clicking on their name in the list.
 4. Delete a candidate by clicking the "Delete" button.
 5. Access the Django admin interface at `http://localhost:8000/admin` to manage candidate data.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository on GitHub.
-2. Clone your forked repository to your local machine.
-3. Create a new branch for your feature or bug fix.
-4. Make your changes and commit them.
-5. Push your changes to your forked repository.
-6. Create a pull request to submit your changes for review.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This project was created as a learning exercise with Django.
-- Special thanks to the Django community for providing excellent documentation and resources.
-
