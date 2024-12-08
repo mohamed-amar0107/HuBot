@@ -12,6 +12,7 @@ Django Resume Uploader is a web application that allows users to upload their re
 
 ## Screenshots
 
+
 <img width="922" alt="image" src="https://github.com/SuryaPratap2542/Resume-Uploader/assets/89827931/d3924bcc-5483-4dec-9405-7577057ba473">
 *Home Page - Upload Resumes*
 
