@@ -17,9 +17,6 @@
 <img width="922" alt="image" src="https://github.com/mohamed-amar0107/HuBot/blob/main/resumeuploader/media/profileimg/jobrequirement.PNG">
 
 
-<img width="922" alt="image" src="https://github.com/SuryaPratap2542/Resume-Uploader/assets/89827931/d3924bcc-5483-4dec-9405-7577057ba473">
-*Home Page - Upload Resumes*
-
 <img width="887" alt="image" src="https://github.com/mohamed-amar0107/HuBot/blob/main/resumeuploader/media/profileimg/hh.png">
 *Candidates informations*
 
